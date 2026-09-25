@@ -1,0 +1,24 @@
+[
+  {
+    "url": "https://raw.githubusercontent.com/shivam7042263411-coder/MIRURO-NUVIO-SCRAPER/refs/heads/main/AnimePahe-nodonate.cs3",
+    "status": 1,
+    "version": 40,
+    "name": "AnimePahe",
+    "internalName": "AnimePahe",
+    "authors": [
+      "Cloudburst,Lorem Ipsum,Phisher98"
+    ],
+    "description": "Animes (SUB/DUB) \u2014 MasterKey build (no donation, EN titles, logos)",
+    "fileSize": 131623,
+    "repositoryUrl": "https://raw.githubusercontent.com/shivam7042263411-coder/MIRURO-NUVIO-SCRAPER/refs/heads/main",
+    "language": "en",
+    "tvTypes": [
+      "AnimeMovie",
+      "Anime",
+      "OVA"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/animepahe.png",
+    "apiVersion": 1,
+    "fileHash": "sha256-e73d935dbcaba2c587b9f012929debf5a1b4d7c04d157e8ce868c7d61bcce78e"
+  }
+]
