@@ -9,7 +9,7 @@
       "Cloudburst,Lorem Ipsum,Phisher98"
     ],
     "description": "Animes (SUB/DUB) \u2014 MasterKey build (no donation, EN titles, logos)",
-    "fileSize": 131711,
+    "fileSize": 131670,
     "repositoryUrl": "https://raw.githubusercontent.com/shivam7042263411-coder/Master-Key/refs/heads/main",
     "language": "en",
     "tvTypes": [
@@ -19,6 +19,6 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/animepahe.png",
     "apiVersion": 1,
-    "fileHash": "sha256-a15aad33f12af64f9de0920097e7123285d245f8dd40363c5429bc3d18167d4f"
+    "fileHash": "sha256-d865318086af4a4f58e8ec600c7a6bacfcacbe7f0b117d0be73699b7da8e20ce"
   }
 ]
