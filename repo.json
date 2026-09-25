@@ -3,6 +3,6 @@
   "description": "MasterKey Repository",
   "manifestVersion": 1,
   "pluginLists": [
-    "https://raw.githubusercontent.com/shivam7042263411-coder/MIRURO-NUVIO-SCRAPER/refs/heads/main/plugins.json"
+    "https://raw.githubusercontent.com/shivam7042263411-coder/Master-Key/refs/heads/main/plugins.json"
   ]
 }
