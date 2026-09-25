@@ -20,5 +20,27 @@
     "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/animepahe.png",
     "apiVersion": 1,
     "fileHash": "sha256-42a2c6b13a725467d8622f12d15fcf0149f3d8f42acddda10d455cf077086b57"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/shivam7042263411-coder/Master-Key/refs/heads/main/PaheProvider.cs3",
+    "status": 1,
+    "version": 1,
+    "name": "PaheProvider",
+    "internalName": "PaheProvider",
+    "authors": [
+      "MasterKey"
+    ],
+    "description": "AnimePahe provider (MasterKey independent implementation)",
+    "fileSize": 45351,
+    "repositoryUrl": "https://raw.githubusercontent.com/shivam7042263411-coder/Master-Key/refs/heads/main",
+    "language": "en",
+    "tvTypes": [
+      "AnimeMovie",
+      "Anime",
+      "OVA"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/animepahe.png",
+    "apiVersion": 1,
+    "fileHash": "sha256-7b22b1621e93f161b541d77f5fde31400f26b7c4c19fa7f0a40b0383a1234828"
   }
 ]
