@@ -24,7 +24,7 @@
   {
     "url": "https://raw.githubusercontent.com/shivam7042263411-coder/Master-Key/refs/heads/main/PaheProvider.cs3",
     "status": 1,
-    "version": 3,
+    "version": 4,
     "name": "PaheProvider",
     "internalName": "PaheProvider",
     "authors": [
@@ -41,6 +41,6 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/animepahe.png",
     "apiVersion": 1,
-    "fileHash": "sha256-f6f70d994b8dfa5126b86bc1c55d890cd5fc2273b3f0668e29874ec75c209313"
+    "fileHash": "sha256-0789564e166198be8242234575e12bdc41b1fae92b83a721764bc755c324dae1"
   }
 ]
