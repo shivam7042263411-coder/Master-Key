@@ -2,14 +2,14 @@
   {
     "url": "https://raw.githubusercontent.com/shivam7042263411-coder/Master-Key/refs/heads/main/AnimePahe-nodonate.cs3",
     "status": 1,
-    "version": 42,
+    "version": 43,
     "name": "AnimePahe",
     "internalName": "AnimePahe",
     "authors": [
       "Cloudburst,Lorem Ipsum,Phisher98"
     ],
     "description": "Animes (SUB/DUB) \u2014 MasterKey build (no donation, EN titles, logos)",
-    "fileSize": 131623,
+    "fileSize": 154227,
     "repositoryUrl": "https://raw.githubusercontent.com/shivam7042263411-coder/Master-Key/refs/heads/main",
     "language": "en",
     "tvTypes": [
@@ -19,6 +19,6 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/animepahe.png",
     "apiVersion": 1,
-    "fileHash": "sha256-52dc29f86e240b230915143780b1dcb1f701e6da5ef61d311c08493edc7b746d"
+    "fileHash": "sha256-524402bdc334ee3072be43c88ab96fe80630f6670e53fd612d7ce01c40f10bf3"
   }
 ]
