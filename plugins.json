@@ -24,14 +24,14 @@
   {
     "url": "https://raw.githubusercontent.com/shivam7042263411-coder/Master-Key/refs/heads/main/PaheProvider.cs3",
     "status": 1,
-    "version": 4,
+    "version": 5,
     "name": "PaheProvider",
     "internalName": "PaheProvider",
     "authors": [
       "MasterKey"
     ],
     "description": "AnimePahe provider (MasterKey independent implementation)",
-    "fileSize": 54843,
+    "fileSize": 56680,
     "repositoryUrl": "https://raw.githubusercontent.com/shivam7042263411-coder/Master-Key/refs/heads/main",
     "language": "en",
     "tvTypes": [
@@ -41,6 +41,6 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/animepahe.png",
     "apiVersion": 1,
-    "fileHash": "sha256-0789564e166198be8242234575e12bdc41b1fae92b83a721764bc755c324dae1"
+    "fileHash": "sha256-e45be107519ab787e1f7db209c5b8b262c54e9f7a8c30e722bc87661bb5c7e42"
   }
 ]
